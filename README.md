@@ -1,2 +1,2 @@
-# jhu-ds-assignments
-John Hopkins University online data science course assignment respository
+# DS-in-Python
+Repository of class assignments and projects of Applied Data Science with Python specialty.
