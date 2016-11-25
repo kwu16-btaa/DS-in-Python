@@ -4,7 +4,7 @@ Data science class assignments and projects in Python using real life datasets. 
 
 #### 1. Assignment 4 - Hypthosis Testing
    
-Hypothesis: University towns have their mean housing prices less effected by recessions. 
+#### Hypothesis: University towns have their mean housing prices less effected by recessions. 
   
 Run a t-test to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom. 
    
@@ -17,7 +17,7 @@ The following datasets are used for this project
    
 #### 2. Assignment 3 - Data Cleaning, Transformation, Merging, and Charting
   
-Tasks: Perform data analysis to discover hidden relationships between below variables. 
+#### Tasks: Perform data analysis to discover hidden relationships between below variables. 
    * Energy supply per capital.
    * GDP per capital.
    * Renewable energy as percentage of total energy supply.
@@ -39,7 +39,7 @@ Make sure to skip the header, and rename the following list of countries:
 
 #### 3. Assignment 2 - Slicing, Grouping, Aggregation and Sorting Data
 
-Task: Read csv files and return subset of data after slicing, grouping, sorting and aggregation.
+#### Task: Read csv files and return subset of data after slicing, grouping, sorting and aggregation.
 
 Below tow datasets are used for this assignment
 * olympics.csv, this dataset was derived from the Wikipedia entry on [All Time Olympic Games Medals](https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table). 
