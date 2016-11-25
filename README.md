@@ -2,7 +2,7 @@
 
 Data science class assignments and projects in Python using real life datasets. Code is written in Jupyter Notebook. Following Jupyter notebooks are included:
 
-#### 1. Assignment 4 - Hypthosis Testing
+#### 1. Assignment 4 - Hypothosis Testing
    
 #### Hypothesis: University towns have their mean housing prices less effected by recessions. 
   
